@@ -10,3 +10,4 @@ score=[]
 for i in range(5):
     j = int(input("평가점수 ==>"))
     score.append(j)
+print(score)
